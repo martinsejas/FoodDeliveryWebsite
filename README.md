@@ -52,4 +52,4 @@ Acesse our site [clicando aqui!](https://gigantic-work.surge.sh/login)
 ## 👨‍💻 Developerss:
    
  [Martin Sejas](https://github.com/martinsejas) | [Bruno Siqueira](https://github.com/brunosp-49) | [Layane Bastos](https://github.com/LayaneB) |
-| :---: | :---: | :---: | :---: | :---: |
+
