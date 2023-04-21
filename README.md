@@ -51,5 +51,5 @@ Acesse our site [clicando aqui!](https://gigantic-work.surge.sh/login)
    
 ## 👨‍💻 Developerss:
    
-| [Bruno Siqueira](https://github.com/brunosp-49) | [Layane Bastos](https://github.com/LayaneB) | [Martin Sejas](https://github.com/martinsejas) | [Michael Douglas](https://github.com/michaeldouglasf) | [William Freitas](https://github.com/Dottysoli)
+ [Martin Sejas](https://github.com/martinsejas) | [Bruno Siqueira](https://github.com/brunosp-49) | [Layane Bastos](https://github.com/LayaneB) |
 | :---: | :---: | :---: | :---: | :---: |
